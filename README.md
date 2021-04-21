@@ -1,6 +1,6 @@
 HOW TO USE THIS TOOL:
 I'm sharing the full source code files, to change something if you want to, but you can use the .exe file
-The executable file and the .txt you need are in pycharmproject/dist
+The executable file and the .txt you need are in pythonproject/dist
 1. Copy the files to the directory you need
 2. Open the ftps.txt file, and copy the ftp users and password in this format:
     user:password 
